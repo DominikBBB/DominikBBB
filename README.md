@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 <!-- 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dominikbbb&theme=darkhub" alt="DominikBBB" /> </p>
  -->
+ 
+ ![Dominik's github activity graph](https://activity-graph.herokuapp.com/graph?username=DominikBBB&theme=github)
